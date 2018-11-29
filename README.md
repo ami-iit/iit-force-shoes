@@ -1,2 +1,2 @@
 # iit-force-shoes
-Documents, files and script related to the IIT's Force Shoes. 
+Public repository containing documents, files and scripts related to the IIT's Force Shoes technology. 
